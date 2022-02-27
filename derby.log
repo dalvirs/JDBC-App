@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Sun Oct 31 20:20:07 PDT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-017c-d982-e8f1-0000170ab2c8 
+on database directory C:\Users\dalvi\eclipse-workspace\a01258927_Assignment01\derby_jdbc_test  with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/dalvi/eclipse-workspace/a01258927_Assignment01/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17+35-LTS-2724
+user.dir=C:\Users\dalvi\eclipse-workspace\a01258927_Assignment01
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
